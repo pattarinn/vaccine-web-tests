@@ -1,11 +1,14 @@
 # End to End tests for Service Taker
 
 Web to be tested: https://vaccine-haven.herokuapp.com/
+<br/>
 Making reservation for vaccine and vaccine cancellation are tested.
 
 # How to use
 1. `pip install -r requirements.txt` to install the requirements.
 2. To run the tests, use command ```robot test-service-taker.robot```
+
+<br/>
 
 *Which do you think is a better framework for E2E testing of web applications or web services:  Robot Framework or Cucumber with Selenium/HTTP library and JUnit?*
 <br/>
@@ -13,6 +16,7 @@ Making reservation for vaccine and vaccine cancellation are tested.
 For me, Robot Framework is better. The syntax and the way to use is not hard to understand. 
 The framework is less complex compare to Cucumber with Selenium/HTTP library and JUnit.
 ```
+<br/>
 
 *What tutorial or online resource(s) did you find most helpful for learning Robot Framework?*
 
